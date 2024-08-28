@@ -8,9 +8,9 @@
 
 💭 Currently learning about best testing methods with software projects
 
-# Goals and Objective:
+**#Goals and Objectives**
 
-## 🌐 Socials:
+**#🌐 Socials:**
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/melattg1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melatghebru) 
 
 
