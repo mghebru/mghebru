@@ -1,11 +1,19 @@
 #**HI I AM MELAT!**
 
 
+# About Me:
 👩🏻‍💻 Aspiring Software Engineer learning and growing in tech
 
 👩🏻‍🎓 Studied Computer Science at the University of North Carolina at Charlotte
 
 💭 Currently learning about best testing methods with software projects
+
+# Goals and Objective:
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/melattg1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melatghebru) 
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mghebru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
