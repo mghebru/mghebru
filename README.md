@@ -2,7 +2,9 @@
 
 
 👩🏻‍💻 Aspiring Software Engineer learning and growing in tech
+
 👩🏻‍🎓 Studied Computer Science at the University of North Carolina at Charlotte
+
 💭 Currently learning about best testing methods with software projects
 
 # 📊 GitHub Stats:
