@@ -10,6 +10,7 @@
 
 
 **#Goals and Objectives**
+My Goals and Objectives is to build technical skills and experience through projects and exercises. 
 
 
 
