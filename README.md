@@ -4,7 +4,7 @@
 # About Me:
 👩🏻‍💻 Aspiring Software Engineer learning and growing in tech
 
-👩🏻‍🎓 Studying Computer Science at the University of North Carolina at Charlotte
+👩🏻‍🎓 Studying Computer Science  and Management Information Systems at the University of North Carolina at Charlotte
 
 💭 Currently learning about best testing methods with software projects
 
