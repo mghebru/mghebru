@@ -4,10 +4,6 @@
 # About Me:
 👩🏻‍💻 Aspiring Software Engineer learning and growing in tech
 
-👩🏻‍🎓 Studying Computer Science  and Management Information Systems at the University of North Carolina at Charlotte
-
-💭 Currently learning about best testing methods with software projects
-
 
 **#Goals and Objectives**
 My Goals and Objectives is to build technical skills and experience through projects and exercises. 
